@@ -29,8 +29,8 @@ public class Logger {
 
 
     private static final StringBuffer mMessageBuffer = new StringBuffer();
-    private static String PRIVATE_TAG = "1904";
-    private static String PUBLIC_TAG = "1904";
+    private static String PRIVATE_TAG = "diXuAn";
+    private static String PUBLIC_TAG = "diXuAn";
     private static boolean mDebugable = BuildConfig.DEBUG;
 
     public  static boolean DEBUG_V = Log.isLoggable(PRIVATE_TAG, Log.VERBOSE);
